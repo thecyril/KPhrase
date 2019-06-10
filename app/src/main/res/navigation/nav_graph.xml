@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/nav_graph"
+            app:startDestination="@+id/mainFragment">
+
+    <fragment
+            android:id="@+id/mainFragment"
+            android:name="com.example.kphrase.Fragments.MainFragment"
+            android:label="fragment_main"
+            tools:layout="@layout/fragment_main">
+        <action
+                android:id="@+id/action_mainFragment_to_phraseListFragment"
+                app:destination="@id/phraseListFragment"/>
+    </fragment>
+    <fragment
+            android:id="@+id/phraseListFragment"
+            android:name="com.example.kphrase.Fragments.PhraseListFragment"
+            android:label="fragment_phrase_list"
+            tools:layout="@layout/fragment_phrase_list">
+        <argument
+                android:name="list"
+                app:argType="com.example.kphrase.CategoriesList"/>
+        <action android:id="@+id/action_phraseListFragment_to_translatorFragment"
+                app:destination="@id/translatorFragment"/>
+    </fragment>
+    <fragment android:id="@+id/translatorFragment"
+              android:name="com.example.kphrase.Fragments.TranslatorFragment"
+              android:label="fragment_translator"
+              tools:layout="@layout/fragment_translator">
+        <argument android:name="categories"
+                  app:argType="com.example.kphrase.Categories"/>
+    </fragment>
+</navigation>

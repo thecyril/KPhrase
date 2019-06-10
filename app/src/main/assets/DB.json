@@ -1,0 +1,434 @@
+﻿{
+    "greeting": [
+        {
+            "ID": "1",
+            "ENG_NAME": "Hello",
+            "ENG_KOR_NAME": "Anyoung haseyo!",
+            "KOREAN": "안녕하세요!",
+            "AUDIO_FILE_NAME": "sound100"
+        },
+        {
+            "ID": "2",
+            "ENG_NAME": "Happy to meet you.",
+            "ENG_KOR_NAME": "Mannasuh bangapseumnida.",
+            "KOREAN": "만나서 반갑습니다.",
+            "AUDIO_FILE_NAME": "sound101"
+        },
+        {
+            "ID": "3",
+            "ENG_NAME": "Good night",
+            "ENG_KOR_NAME": "Anyoung-hi jumu ship shiyo",
+            "KOREAN": "안녕히 주무십시요",
+            "AUDIO_FILE_NAME": "sound102"
+        },
+        {
+            "ID": "4",
+            "ENG_NAME": "Yes",
+            "ENG_KOR_NAME": "Ne",
+            "KOREAN": "네",
+            "AUDIO_FILE_NAME": "sound103"
+        },
+        {
+            "ID": "5",
+            "ENG_NAME": "Goodbye “Please stay well” (when you are leaving)",
+            "ENG_KOR_NAME": "Anyoung hee gyeseyo.",
+            "KOREAN": "안녕히 계세요.",
+            "AUDIO_FILE_NAME": "sound104"
+        },
+        {
+            "ID": "6",
+            "ENG_NAME": "Goodbye “Please go well” (when you are staying)",
+            "ENG_KOR_NAME": "Anyoung hee gaseyo.",
+            "KOREAN": "안녕히 가세요.",
+            "AUDIO_FILE_NAME": "sound105"
+        },
+        {
+            "ID": "7",
+            "ENG_NAME": "Bye (Stay well)",
+            "ENG_KOR_NAME": "Jal itsuh.",
+            "KOREAN": "잘 있어.",
+            "AUDIO_FILE_NAME": "sound106"
+        },
+        {
+            "ID": "8",
+            "ENG_NAME": "Bye (Go well)",
+            "ENG_KOR_NAME": "Jal ga.",
+            "KOREAN": "잘 가.",
+            "AUDIO_FILE_NAME": "sound107"
+        },
+        {
+            "ID": "9",
+            "ENG_NAME": "I offer you a request/Please look after me.",
+            "ENG_KOR_NAME": "Jal bootak deurimnida.",
+            "KOREAN": "잘부탁드립니다.",
+            "AUDIO_FILE_NAME": "sound108"
+        },
+        {
+            "ID": "10",
+            "ENG_NAME": "Did you have a good meal?",
+            "ENG_KOR_NAME": "Shiksa hashutsuyo?",
+            "KOREAN": "식사하셨어요?",
+            "AUDIO_FILE_NAME": "sound109"
+        }
+    ],
+    "tranportation": [
+        {
+            "ID": "11",
+            "ENG_NAME": "Where is the train station?",
+            "ENG_KOR_NAME": "Gichayeogi eodiyeyo?",
+            "KOREAN": "기차역이 어디예요?",
+            "AUDIO_FILE_NAME": "sound110"
+        },
+        {
+            "ID": "12",
+            "ENG_NAME": "What time is the next bus?",
+            "ENG_KOR_NAME": "Daeum beoseuneun eonje isseoyo?",
+            "KOREAN": "다음 버스는 언제 있어요?",
+            "AUDIO_FILE_NAME": "sound111"
+        },
+        {
+            "ID": "13",
+            "ENG_NAME": "What time is the next train?",
+            "ENG_KOR_NAME": "Daeum gichaneun eonje isseoyo?",
+            "KOREAN": "다음 기차는 언제 있어요?",
+            "AUDIO_FILE_NAME": "sound112"
+        },
+        {
+            "ID": "14",
+            "ENG_NAME": "The train's running late.",
+            "ENG_KOR_NAME": "Gichaga neunneyo.",
+            "KOREAN": "기차가 늦네요.",
+            "AUDIO_FILE_NAME": "sound113"
+        },
+        {
+            "ID": "15",
+            "ENG_NAME": "The train's been cancelled.",
+            "ENG_KOR_NAME": "Gicha unhaengi chwisodoeeotsseumnida.",
+            "KOREAN": "기차 운행이 취소되었습니다.",
+            "AUDIO_FILE_NAME": "sound114"
+        },
+        {
+            "ID": "16",
+            "ENG_NAME": "What time is the last train?",
+            "ENG_KOR_NAME": "Makchaneun eonje isseoyo?",
+            "KOREAN": "막차는 언제 있어요?",
+            "AUDIO_FILE_NAME": "sound115"
+        },
+        {
+            "ID": "17",
+            "ENG_NAME": "Where is the bus stop?",
+            "ENG_KOR_NAME": "Beoseu jeongnyujangi eodiyeyo?",
+            "KOREAN": "버스 정류장이 어디예요?",
+            "AUDIO_FILE_NAME": "sound116"
+        },
+        {
+            "ID": "18",
+            "ENG_NAME": "Where can I buy a ticket?",
+            "ENG_KOR_NAME": "Pyoneun eodieseo sayo?",
+            "KOREAN": "표는 어디에서 사요?",
+            "AUDIO_FILE_NAME": "sound117"
+        },
+        {
+            "ID": "19",
+            "ENG_NAME": "How much is it to Itaewon?",
+            "ENG_KOR_NAME": "Itaewonkkaji eolmayeyo?",
+            "KOREAN": "이태원까지 얼마예요?",
+            "AUDIO_FILE_NAME": "sound118"
+        },
+        {
+            "ID": "20",
+            "ENG_NAME": "Does this bus go to Gangnam?",
+            "ENG_KOR_NAME": "I beoseu gangnam ganayo?",
+            "KOREAN": "이 버스 강남 가나요?",
+            "AUDIO_FILE_NAME": "sound119"
+        }
+    ],
+    "navigation": [
+        {
+            "ID": "21",
+            "ENG_NAME": "Where is Hongdae University?",
+            "ENG_KOR_NAME": "Hongdae uhdi issuhyo?",
+            "KOREAN": "홍대 어디 있어요?",
+            "AUDIO_FILE_NAME": "sound120"
+        },
+        {
+            "ID": "22",
+            "ENG_NAME": "Where is Gyeongbokgung Palace?",
+            "ENG_KOR_NAME": "Gyeongbokgung uhdi issuhyo?",
+            "KOREAN": "경복궁 어디 있어요?",
+            "AUDIO_FILE_NAME": "sound121"
+        },
+        {
+            "ID": "23",
+            "ENG_NAME": "Where is Gangnam Station?",
+            "ENG_KOR_NAME": "Gangnamyuk uhdi issuhyo?",
+            "KOREAN": "강남역 어디 있어요?",
+            "AUDIO_FILE_NAME": "sound122"
+        },
+        {
+            "ID": "24",
+            "ENG_NAME": "Where is the nearest market?",
+            "ENG_KOR_NAME": "Jeil gaggaoon shijang uhdi issuhyo?",
+            "KOREAN": "제일 가까운 시장 어디 있어요?",
+            "AUDIO_FILE_NAME": "sound123"
+        },
+        {
+            "ID": "25",
+            "ENG_NAME": "Where is the nearest subway station?",
+            "ENG_KOR_NAME": "Jeil gaggaoon jihachulyuk uhdi issuhyo?",
+            "KOREAN": "제일 가까운 지하철역 어디 있어요?",
+            "AUDIO_FILE_NAME": "sound124"
+        },
+        {
+            "ID": "26",
+            "ENG_NAME": "Where is the nearest hospital?",
+            "ENG_KOR_NAME": "Jeil gaggaoon byungwon uhdi issuhyo?",
+            "KOREAN": "제일 가까운 병원 어디 있어요?",
+            "AUDIO_FILE_NAME": "sound125"
+        },
+        {
+            "ID": "27",
+            "ENG_NAME": "Is it close?",
+            "ENG_KOR_NAME": "Gaggawoyo?",
+            "KOREAN": "가까워요?",
+            "AUDIO_FILE_NAME": "sound126"
+        },
+        {
+            "ID": "28",
+            "ENG_NAME": "It is close.",
+            "ENG_KOR_NAME": "Gaggawoyo.",
+            "KOREAN": "가까워요.",
+            "AUDIO_FILE_NAME": "sound127"
+        },
+        {
+            "ID": "29",
+            "ENG_NAME": "Is it far?",
+            "ENG_KOR_NAME": "Muhruhyo?",
+            "KOREAN": "멀어요?",
+            "AUDIO_FILE_NAME": "sound128"
+        },
+        {
+            "ID": "30",
+            "ENG_NAME": "It is far.",
+            "ENG_KOR_NAME": "Muhruhyo.",
+            "KOREAN": "멀어요.",
+            "AUDIO_FILE_NAME": "sound129"
+        }
+    ],
+    "emergency": [
+        {
+            "ID": "31",
+            "ENG_NAME": "Emergency Exit",
+            "ENG_KOR_NAME": "bisanggu",
+            "KOREAN": "비상구",
+            "AUDIO_FILE_NAME": "sound130"
+        },
+        {
+            "ID": "32",
+            "ENG_NAME": "Over head locker",
+            "ENG_KOR_NAME": "meori wi seonban",
+            "KOREAN": "머리 위 선반",
+            "AUDIO_FILE_NAME": "sound131"
+        },
+        {
+            "ID": "33",
+            "ENG_NAME": "Seatbelt",
+            "ENG_KOR_NAME": "anjeonbelteu",
+            "KOREAN": "안전벨트",
+            "AUDIO_FILE_NAME": "sound132"
+        },
+        {
+            "ID": "34",
+            "ENG_NAME": "Life jacket",
+            "ENG_KOR_NAME": "gumyeongjokki",
+            "KOREAN": "구명조끼",
+            "AUDIO_FILE_NAME": "sound133"
+        },
+        {
+            "ID": "35",
+            "ENG_NAME": "Cabin",
+            "ENG_KOR_NAME": "gaekshil",
+            "KOREAN": "객실",
+            "AUDIO_FILE_NAME": "sound134"
+        },
+        {
+            "ID": "36",
+            "ENG_NAME": "Flight attendant",
+            "ENG_KOR_NAME": "seungmuweon",
+            "KOREAN": "승무원",
+            "AUDIO_FILE_NAME": "sound135"
+        },
+        {
+            "ID": "37",
+            "ENG_NAME": "Boarding pass",
+            "ENG_KOR_NAME": "tabseunggweon",
+            "KOREAN": "탑승권",
+            "AUDIO_FILE_NAME": "sound136"
+        },
+        {
+            "ID": "38",
+            "ENG_NAME": "(I) would like to have a glass of water.",
+            "ENG_KOR_NAME": "Mul han jan mashigo shipeundeyo.",
+            "KOREAN": "물 한 잔 마시고 싶은데요.",
+            "AUDIO_FILE_NAME": "sound137"
+        },
+        {
+            "ID": "39",
+            "ENG_NAME": "I’m scared of flying.",
+            "ENG_KOR_NAME": "Jeoneun bihaenggi taneun geosi museoweoyo.",
+            "KOREAN": "저는 비행기 타는 것이 무서워요.",
+            "AUDIO_FILE_NAME": "sound138"
+        },
+        {
+            "ID": "40",
+            "ENG_NAME": "(I’m) hungry.",
+            "ENG_KOR_NAME": "Baega gopayo.",
+            "KOREAN": "배가 고파요.",
+            "AUDIO_FILE_NAME": "sound139"
+        }
+    ],
+    "communication": [
+        {
+            "ID": "41",
+            "ENG_NAME": "Thank You",
+            "ENG_KOR_NAME": "gomapseumnida",
+            "KOREAN": "고맙습니다",
+            "AUDIO_FILE_NAME": "sound140"
+        },
+        {
+            "ID": "42",
+            "ENG_NAME": "Don’t mention it",
+            "ENG_KOR_NAME": "cheonmaneyo",
+            "KOREAN": "천만에요",
+            "AUDIO_FILE_NAME": "sound141"
+        },
+        {
+            "ID": "43",
+            "ENG_NAME": "Sorry",
+            "ENG_KOR_NAME": "mianhamnida",
+            "KOREAN": "미안합니다",
+            "AUDIO_FILE_NAME": "sound142"
+        },
+        {
+            "ID": "44",
+            "ENG_NAME": "That’s OK",
+            "ENG_KOR_NAME": "gwaenchanayo",
+            "KOREAN": "괜찮아요",
+            "AUDIO_FILE_NAME": "sound143"
+        },
+        {
+            "ID": "45",
+            "ENG_NAME": "Hello",
+            "ENG_KOR_NAME": "annyeonghaseyo?",
+            "KOREAN": "안녕하세요?",
+            "AUDIO_FILE_NAME": "sound144"
+        },
+        {
+            "ID": "46",
+            "ENG_NAME": "Excuse me (to get attention)",
+            "ENG_KOR_NAME": "jeogiyo",
+            "KOREAN": "저기요",
+            "AUDIO_FILE_NAME": "sound145"
+        },
+        {
+            "ID": "47",
+            "ENG_NAME": "Excuse me (to apologize)",
+            "ENG_KOR_NAME": "sillyehamnida",
+            "KOREAN": "실례합니다",
+            "AUDIO_FILE_NAME": "sound146"
+        },
+        {
+            "ID": "48",
+            "ENG_NAME": "Excuse me (to pass someone)",
+            "ENG_KOR_NAME": "jamsimanyo",
+            "KOREAN": "잠시만요",
+            "AUDIO_FILE_NAME": "sound147"
+        },
+        {
+            "ID": "49",
+            "ENG_NAME": "Hello (on phone)",
+            "ENG_KOR_NAME": "yeoboseyo",
+            "KOREAN": "여보세요",
+            "AUDIO_FILE_NAME": "sound148"
+        },
+        {
+            "ID": "50",
+            "ENG_NAME": "Good morning",
+            "ENG_KOR_NAME": "annyeonghaseyo?",
+            "KOREAN": "안녕하세요?",
+            "AUDIO_FILE_NAME": "sound149"
+        }
+    ],
+    "eating": [
+        {
+            "ID": "51",
+            "ENG_NAME": "I really enjoyed the meal. (lit. I ate well)",
+            "ENG_KOR_NAME": "jal meog-eossseubnida",
+            "KOREAN": "잘 먹었습니다",
+            "AUDIO_FILE_NAME": "sound150"
+        },
+        {
+            "ID": "52",
+            "ENG_NAME": "You’re such a great cook.",
+            "ENG_KOR_NAME": "Yoli neomu jalhaseyo.",
+            "KOREAN": "요리 너무 잘하세요.",
+            "AUDIO_FILE_NAME": "sound151"
+        },
+        {
+            "ID": "53",
+            "ENG_NAME": "I’m a vegetarian.",
+            "ENG_KOR_NAME": "Jeon chaesigjuuija-eyo.",
+            "KOREAN": "전 채식주의자에요.",
+            "AUDIO_FILE_NAME": "sound152"
+        },
+        {
+            "ID": "54",
+            "ENG_NAME": "The bill, please.",
+            "ENG_KOR_NAME": "Gyesanseo juseyo.",
+            "KOREAN": "계산서 주세요.",
+            "AUDIO_FILE_NAME": "sound153"
+        },
+        {
+            "ID": "55",
+            "ENG_NAME": "Can you show me the menu?",
+            "ENG_KOR_NAME": "Menyu jom boyeo juseyo?",
+            "KOREAN": "메뉴 좀 보여 주세요?",
+            "AUDIO_FILE_NAME": "sound154"
+        },
+        {
+            "ID": "56",
+            "ENG_NAME": "Have you eaten?",
+            "ENG_KOR_NAME": "Sigsahasyeoss-eoyo?",
+            "KOREAN": "식사하셨어요?",
+            "AUDIO_FILE_NAME": "sound155"
+        },
+        {
+            "ID": "57",
+            "ENG_NAME": "Yes, I’ve eaten.",
+            "ENG_KOR_NAME": "Ne haess-eoyo.",
+            "KOREAN": "네 했어요.",
+            "AUDIO_FILE_NAME": "sound156"
+        },
+        {
+            "ID": "58",
+            "ENG_NAME": "It’s sour.",
+            "ENG_KOR_NAME": "Shyeoyo.",
+            "KOREAN": "셔요.",
+            "AUDIO_FILE_NAME": "sound157"
+        },
+        {
+            "ID": "59",
+            "ENG_NAME": "We are ready to order.",
+            "ENG_KOR_NAME": "Jumunbad-euseyo",
+            "KOREAN": "주문받으세요",
+            "AUDIO_FILE_NAME": "sound158"
+        },
+        {
+            "ID": "60",
+            "ENG_NAME": "It’s spicy.",
+            "ENG_KOR_NAME": "Maewoyo.",
+            "KOREAN": "매워요.",
+            "AUDIO_FILE_NAME": "sound159"
+        }
+    ]
+}
